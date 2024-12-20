@@ -9,3 +9,4 @@ pretty decent in:
 - python (barely use it though)
 - ruby
 - TypeScript 
+- Rapid
