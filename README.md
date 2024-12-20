@@ -1,9 +1,11 @@
-- woomp
-- woooomp
-- wooooooomp
-- pex
-- rust :sex emoji:
-
-<!---
-amongus
---->
+pretty decent in:
+- C
+- C++
+- C#
+- java
+- zig
+- rust (personal favorite)
+- php
+- python (barely use it though)
+- ruby
+  
