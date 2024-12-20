@@ -8,4 +8,4 @@ pretty decent in:
 - php
 - python (barely use it though)
 - ruby
-  
+- TypeScript 
