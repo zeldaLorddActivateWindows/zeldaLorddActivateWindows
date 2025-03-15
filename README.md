@@ -2,7 +2,8 @@
 
 ![prs](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Merged%20PRs&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Agcat101%2520type%3Apr%2520is%3Amerged)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeldalorddactivatewindows&langs_count=4&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) no clue why this doesnt show data the most used langs are prolly rust c# and groovy
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeldalorddactivatewindows&langs_count=4&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+no clue why this doesnt show data the most used langs are prolly rust c# and groovy
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeldalorddactivatewindows&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -25,7 +26,7 @@ quack 🦆
 
 ## 📈 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zeldalorddactivatewindows&theme=tokyonight)](https://git.io/streak-stats) i think this one doesnt show shit because i suck idk
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zeldalorddactivatewindows&theme=tokyonight)](https://git.io/streak-stats) 
 
 ## 📫 How to Reach Me
 
