@@ -35,7 +35,13 @@ quack 🦆
 - [Twitter](https://x.com/Benjami17351584)
 - **Business Email:** [uwudwagon@pjhq.dev](mailto:uwudwagon@pjhq.dev)
 - **Private Email:** [benjaminstockhamer@gmail.com](mailto:benjaminstockhamer@gmail.com)
+---
 
+## 🎧 Now Playing on Spotify
+
+[![Spotify](https://spotify-readme-stats.vercel.app/api/spotify)](https://open.spotify.com/user/c4c76872f92b457a99e7350468921fdf)
+
+---
 ## 🌟~~Fun~~ Just Fact
 
 yuri is great and if you think otherwise i hope youre casted to ohio
