@@ -35,7 +35,7 @@ quack 🦆
 - **Business Email:** [uwudwagon@pjhq.dev](mailto:uwudwagon@pjhq.dev)
 - **Private Email:** [benjaminstockhamer@gmail.com](mailto:benjaminstockhamer@gmail.com)
 
-## 🌟 Fun Fact
+## 🌟~~Fun~~ Just Fact
 
 yuri is great and if you think otherwise i hope youre casted to ohio
 
