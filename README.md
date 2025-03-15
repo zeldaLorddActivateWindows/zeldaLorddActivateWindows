@@ -1,4 +1,4 @@
-# Professional Dungeater
+# Professional Dungeater 
 
 ![prs](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Merged%20PRs&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Agcat101%2520type%3Apr%2520is%3Amerged)
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-quack
+quack 🦆
 
 ## 🛠️ Technologies & Tools
 
@@ -31,8 +31,8 @@ quack
 
 - [Instagram](https://www.instagram.com/vielzukuhl)
 - [Twitter](https://x.com/Benjami17351584)
-- Business Email: uwudwagon@pjhq.dev
-- Private Email:  benjaminstockhamer@gmail.com 
+- **Business Email:** [uwudwagon@pjhq.dev](mailto:uwudwagon@pjhq.dev)
+- **Private Email:** [benjaminstockhamer@gmail.com](mailto:benjaminstockhamer@gmail.com)
 
 ## 🌟 Fun Fact
 
