@@ -36,13 +36,6 @@ quack 🦆
 - **Business Email:** [uwudwagon@pjhq.dev](mailto:uwudwagon@pjhq.dev)
 - **Private Email:** [benjaminstockhamer@gmail.com](mailto:benjaminstockhamer@gmail.com)
 
----
-
-## 🎧 Now Playing on Spotify
-
-[![Spotify](https://spotify-readme-stats.vercel.app/api/spotify?refresh_token=AQB3RIbmH8NA33wS8D4SI_azTOPqQJq7WDVAk59MIDCPU0Pb7oslARySyj6cy5ftBdiLbPOXo8iFcBFuUbx8-nuEVERcMSi2Tj--cLGQUfTMpFLxfQ-yHTkSWmI8Hbf0yb0)](https://open.spotify.com/user/c4c76872f92b457a99e7350468921fdf)
-**this code keeps expiring bruh i dont listen to such mainstream SLOP**
----
 
 ## 🌟~~Fun~~ Just Fact
 
