@@ -1,7 +1,8 @@
 # Professional Dungeater 
 ![prs](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Merged%20PRs&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Agcat101%2520type%3Apr%2520is%3Amerged)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeldalorddactivatewindows&langs_count=4&theme=tokyonight&layout=compact&count_private=true&include_orgs=pjhq-inc)](https://github.com/anuraghazra/github-readme-stats) 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeldalorddactivatewindows&count_private=true&show_icons=true&theme=tokyonight&include_orgs=pjhq-inc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=zeldalorddactivatewindows&langs_count=4&theme=tokyonight&layout=compact&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=zeldalorddactivatewindows&count_private=true&show_icons=true&theme=tokyonight&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
+blehhhh
 ---
 ## 🚀 About Me
 quack 🦆
