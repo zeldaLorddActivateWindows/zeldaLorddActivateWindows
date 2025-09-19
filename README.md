@@ -6,7 +6,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeldalorddactivatewindows&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-idk why this shit stopped working lol
+~~ idk why this shit stopped working lol ~~ nvm
 ---
 
 ## 🚀 About Me
