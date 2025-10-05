@@ -62,7 +62,7 @@ blehhhh
 <div align="center">
 
 [![Website](https://img.shields.io/badge/-pjhq.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.pjhq.dev/)
-[![Instagram](https://img.shields.io/badge/-@vielzukuhl-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vielzukuhl)
+[![Instagram](https://img.shields.io/badge/-@God-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vielzukuhl)
 [![Twitter](https://img.shields.io/badge/-@PJHQ-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://x.com/PJHQdevs](https://x.com/PJHQdevs))
 
 **business:** uwudwagon@pjhq.dev • **private:** benjaminstockhamer@gmail.com
