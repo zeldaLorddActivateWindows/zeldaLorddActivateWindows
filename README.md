@@ -13,15 +13,16 @@ blehhhh
 
 ---
 
-## ⚡ techstack
+## techstack
 
-### systems & low-level
+### low-level
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-x86%20Assembly-654FF0?style=flat&logo=assemblyscript&logoColor=white)
+![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
 
-### backend & enterprise
+### backend 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
@@ -29,25 +30,24 @@ blehhhh
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 ![Groovy](https://img.shields.io/badge/-Groovy-4298B8?style=flat&logo=apache-groovy&logoColor=white)
 
-### web & frontend
+### frontend
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### cloud & infrastructure
+### cloud shii
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-### functional & academic
-![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
+
 
 ---
 
-## 📈 activity
+## activity
 
 <div align="center">
 
@@ -63,7 +63,7 @@ blehhhh
 
 [![Website](https://img.shields.io/badge/-pjhq.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.pjhq.dev/)
 [![Instagram](https://img.shields.io/badge/-@vielzukuhl-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vielzukuhl)
-[![Twitter](https://img.shields.io/badge/-@Benjami17351584-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Benjami17351584)
+[![Twitter](https://img.shields.io/badge/-@Benjami17351584-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://x.com/PJHQdevs](https://x.com/PJHQdevs))
 
 **business:** uwudwagon@pjhq.dev • **private:** benjaminstockhamer@gmail.com
 
@@ -76,6 +76,5 @@ blehhhh
 ### ~~Fun~~ Just Fact
 yuri is great and if you think otherwise i hope youre casted to ohio
 
-<sub>currently vibing in production environments and breaking things beautifully</sub>
-
+genocide is bad
 </div>
