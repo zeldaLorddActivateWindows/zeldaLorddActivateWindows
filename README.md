@@ -73,7 +73,7 @@ blehhhh
 
 <div align="center">
 
-### ~~Fun~~ Just Fact
+### Fact
 yuri is great and if you think otherwise i hope youre casted to ohio
 
 genocide is bad
